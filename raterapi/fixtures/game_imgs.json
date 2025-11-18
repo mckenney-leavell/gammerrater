@@ -1,0 +1,47 @@
+[
+    {
+        "model": "raterapi.gameimg",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "game": 1,
+            "url": "fake.url"
+        }
+    },
+    {
+        "model": "raterapi.gameimg",
+        "pk": 2,
+        "fields": {
+            "user": 1,
+            "game": 3,
+            "url": "https://example.com/images/zelda-botw-landscape.jpg"
+        }
+    },
+    {
+        "model": "raterapi.gameimg",
+        "pk": 3,
+        "fields": {
+            "user": 2,
+            "game": 2,
+            "url": "https://example.com/images/minecraft-village-sunset.jpg"
+        }
+    },
+    {
+        "model": "raterapi.gameimg",
+        "pk": 4,
+        "fields": {
+            "user": 1,
+            "game": 5,
+            "url": "https://example.com/images/elden-ring-boss-battle.jpg"
+        }
+    },
+    {
+        "model": "raterapi.gameimg",
+        "pk": 5,
+        "fields": {
+            "user": 2,
+            "game": 4,
+            "url": "https://example.com/images/stardew-valley-farm.jpg"
+        }
+    }
+]

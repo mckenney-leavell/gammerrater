@@ -1,0 +1,52 @@
+[
+  {
+    "model": "raterapi.rating",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "game": 1,
+      "rating": 9,
+      "review": "Amazing game! The graphics are stunning and the gameplay is incredibly smooth. Spent hours playing and didn't even notice the time passing."
+    }
+  },
+  {
+    "model": "raterapi.rating",
+    "pk": 2,
+    "fields": {
+      "user": 2,
+      "game": 1,
+      "rating": 7,
+      "review": "Pretty good overall. The story kept me engaged but I found some of the controls a bit clunky at times."
+    }
+  },
+  {
+    "model": "raterapi.rating",
+    "pk": 3,
+    "fields": {
+      "user": 1,
+      "game": 2,
+      "rating": 10,
+      "review": "Absolute masterpiece! This is exactly what I was looking for. The attention to detail is incredible and the replay value is through the roof."
+    }
+  },
+  {
+    "model": "raterapi.rating",
+    "pk": 4,
+    "fields": {
+      "user": 2,
+      "game": 3,
+      "rating": 5,
+      "review": "It's okay, nothing special. Some fun moments but overall felt pretty average. Might appeal to some people but wasn't for me."
+    }
+  },
+  {
+    "model": "raterapi.rating",
+    "pk": 5,
+    "fields": {
+      "user": 1,
+      "game": 3,
+      "rating": 8,
+      "review": "Really enjoyed this one! Great balance between challenge and fun. A few minor bugs here and there but nothing game-breaking."
+    }
+  }
+]
