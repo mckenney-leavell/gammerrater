@@ -1,0 +1,74 @@
+[
+    {
+        "model": "raterapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Catan",
+            "description": "Players try to be the dominant force on the island of Catan by building settlements, cities, and roads. On each turn dice are rolled to determine what resources the island produces. Players collect these resources to build up their civilizations to get to 10 victory points and win the game.",
+            "year_released": 1995,
+            "player_count": 4,
+            "est_play_time": 90,
+            "age_recommendation": 10
+        }
+    },
+    {
+        "model": "raterapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "Ticket to Ride",
+            "description": "A cross-country train adventure where players collect cards of various types of train cars to claim railway routes connecting cities throughout North America. The longer the routes, the more points they earn. Additional points come to those who can fulfill their Destination Tickets by connecting two distant cities.",
+            "year_released": 2004,
+            "player_count": 4,
+            "est_play_time": 60,
+            "age_recommendation": 8
+        }
+    },
+    {
+        "model": "raterapi.game",
+        "pk": 3,
+        "fields": {
+            "title": "Pandemic",
+            "description": "Players work as a team of disease-fighting specialists whose mission is to treat disease hotspots while researching cures for each of four plagues before they get out of hand. The game board depicts several major population centers on Earth. On each turn, a player can use up to four actions to travel between cities, treat infected populaces, discover a cure, or build a research station.",
+            "year_released": 2008,
+            "player_count": 4,
+            "est_play_time": 45,
+            "age_recommendation": 8
+        }
+    },
+    {
+        "model": "raterapi.game",
+        "pk": 4,
+        "fields": {
+            "title": "Codenames",
+            "description": "Two rival spymasters know the secret identities of 25 agents. Their teammates know the agents only by their codenames. The teams compete to see who can make contact with all of their agents first. Spymasters give one-word clues that can point to multiple words on the board. Their teammates try to guess words of the right color while avoiding those that belong to the opposing team.",
+            "year_released": 2015,
+            "player_count": 6,
+            "est_play_time": 15,
+            "age_recommendation": 14
+        }
+    },
+    {
+        "model": "raterapi.game",
+        "pk": 5,
+        "fields": {
+            "title": "Azul",
+            "description": "Players take turns drafting colored tiles from suppliers to their player board. Later in the round, players score points based on how they've placed their tiles to decorate the palace. Extra points are scored for specific patterns and completing sets. The player with the most points at the end of the game wins.",
+            "year_released": 2017,
+            "player_count": 4,
+            "est_play_time": 40,
+            "age_recommendation": 8
+        }
+    },
+    {
+        "model": "raterapi.game",
+        "pk": 6,
+        "fields": {
+            "title": "Splendor",
+            "description": "Players are merchants of the Renaissance trying to buy gem mines, means of transportation, and shops—all in order to acquire the most prestige points. Players collect chips representing gems which they use to buy development cards. Some cards give bonuses for future purchases and some provide prestige points. The first player to reach 15 prestige points wins.",
+            "year_released": 2014,
+            "player_count": 4,
+            "est_play_time": 30,
+            "age_recommendation": 10
+        }
+    }
+]
